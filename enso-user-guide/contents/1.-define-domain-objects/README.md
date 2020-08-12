@@ -10,11 +10,11 @@ Domain Object: medical form &lt;Can be any name&gt;
 
 Entity: patient\_personal\_information &lt;can be any name&gt;
 
-Attribute1:  Name &lt;can be any name, but possible synonyms to be given are: Patient Name, Patient or NER type must be defined such person, place, phone etc.&gt;
+**Attribute1:**  Name &lt;can be any name, but possible synonyms to be given are: Patient Name, Patient or NER type must be defined such person, place, phone etc.&gt;
 
-Attribute2: Gender &lt;can be any name but possible synonyms to be given are: Sex,gender&gt;
+**Attribute2:** Gender &lt;can be any name but possible synonyms to be given are: Sex,gender&gt;
 
-Attribute3: ssn\_number &lt;can be any name but possible synonyms to be given are:  ssn\#, ssn, ssn number &gt;
+**Attribute3:** ssn\_number &lt;can be any name but possible synonyms to be given are:  ssn\#, ssn, ssn number &gt;
 
 ![](../../../.gitbook/assets/image%20%2846%29.png)
 
